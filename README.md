@@ -9,7 +9,7 @@ A command-line utility that retrieves latitude, longitude, and place information
   - `/geo/1.0/zip?zip={zipcode}&appid=API_KEY`
 
 ## Prerequisites
-- Java 11+ installed ([Download Java](https://adoptium.net/))
+- Java 21+ installed ([Download Java](https://adoptium.net/))
 - Maven installed ([Download Maven](https://maven.apache.org/download.cgi))
 - OpenWeather API Key (set as an environment variable `OW_API_KEY`)
 
